@@ -65,23 +65,6 @@ The Power BI dashboard contains slicers, cross-filtering and other advance capab
 
 This directory contains images, icons, layouts, etc. that are used in this project.
 
-## Prerequisites
-
-The major skills that are required as prerequisite to fully understand this project are as follows:
-
-- Basics of Python & Jupyter Notebook
-- Basics of Power BI
-
-In order to complete the project, I've used the following applications and libraries
-
-- Python
-- Python libraries mentioned in [requirements.txt][requirements] file
-- Jupyter Notebook
-- Visual Studio Code
-- Microsoft Power BI
-
-> The choice of applications & their installation might vary based on individual preferences & system settings.
-
 ## Architecture
 
 The project architecture is quite straight forward and can be explained through the below image:
@@ -129,13 +112,5 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 [requirements]: ./requirements.txt
 
-<!-- Profile Links -->
 
-[linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
-[twitter]: https://twitter.com/quantumudit
-[dashboard_link]: https://app.powerbi.com/view?r=eyJrIjoiM2I0MDRiYTYtZjZiMy00MDA4LWFkZTYtMzViYzhkZTAzYmY2IiwidCI6IjcwODlkNGIxLTQyMmUtNDYzZi1hNGM3LTViY2FiOTk0MGRiZCJ9&pageName=ReportSection
 
-<!-- Shields Profile Links -->
-
-[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
-[twitterbadge]: https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit
